@@ -267,9 +267,9 @@
       "id": "9dQttliCdaiLYJDn-4fcZ",
       "type": "arrow",
       "x": 110.24397064072542,
-      "y": 724.6360816692509,
-      "width": 264.8034454502609,
-      "height": 176.6480560916782,
+      "y": 724.636081669251,
+      "width": 265.0951552962094,
+      "height": 176.6480560916783,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -285,8 +285,8 @@
         "type": 2
       },
       "seed": 948919203,
-      "version": 1376,
-      "versionNonce": 275110627,
+      "version": 1395,
+      "versionNonce": 271475149,
       "isDeleted": false,
       "boundElements": [
         {
@@ -294,7 +294,7 @@
           "id": "CkT6EdPhMMvLUyWH15dnM"
         }
       ],
-      "updated": 1744307076960,
+      "updated": 1744307553406,
       "link": null,
       "locked": false,
       "points": [
@@ -304,11 +304,11 @@
         ],
         [
           91.012077621706,
-          -176.6480560916782
+          -176.6480560916783
         ],
         [
-          264.8034454502609,
-          -173.40537916482077
+          265.0951552962094,
+          -173.39993631228674
         ]
       ],
       "lastCommittedPoint": null,
@@ -329,8 +329,8 @@
     {
       "id": "CkT6EdPhMMvLUyWH15dnM",
       "type": "text",
-      "x": 410.4820203686451,
-      "y": 385.85627392192623,
+      "x": 109.08812528879861,
+      "y": 507.98802557757267,
       "width": 184.33584594726562,
       "height": 80,
       "angle": 0,
@@ -346,11 +346,11 @@
       "index": "a6V",
       "roundness": null,
       "seed": 78025101,
-      "version": 325,
-      "versionNonce": 2105526701,
+      "version": 330,
+      "versionNonce": 1109514093,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1744307068012,
+      "updated": 1744307553405,
       "link": null,
       "locked": false,
       "text": "Post\n/user/${userId/follows\nGET\n/user/userId/followers",
@@ -385,8 +385,8 @@
         "type": 3
       },
       "seed": 839511875,
-      "version": 577,
-      "versionNonce": 2028941421,
+      "version": 595,
+      "versionNonce": 816963245,
       "isDeleted": false,
       "boundElements": [
         {
@@ -402,7 +402,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1744307075989,
+      "updated": 1744307553405,
       "link": null,
       "locked": false
     },
@@ -426,11 +426,11 @@
       "index": "a8",
       "roundness": null,
       "seed": 912763395,
-      "version": 778,
-      "versionNonce": 367565517,
+      "version": 796,
+      "versionNonce": 1390571171,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1744307075989,
+      "updated": 1744307553405,
       "link": null,
       "locked": false,
       "text": "User Service",
@@ -639,10 +639,10 @@
     {
       "id": "Ux_58By_4V6FOZpOiwwOP",
       "type": "arrow",
-      "x": 520.3924752070847,
-      "y": 535.6369912764212,
-      "width": 217.75026347548248,
-      "height": 127.83849145172616,
+      "x": 520.0997745793029,
+      "y": 535.4651503513845,
+      "width": 218.04299001776678,
+      "height": 128.01034759084735,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -658,8 +658,8 @@
         "type": 2
       },
       "seed": 1153689891,
-      "version": 721,
-      "versionNonce": 619434339,
+      "version": 740,
+      "versionNonce": 431697283,
       "isDeleted": false,
       "boundElements": [
         {
@@ -667,7 +667,7 @@
           "id": "D8O0X3I7vEcD8cYIQNMl9"
         }
       ],
-      "updated": 1744307076961,
+      "updated": 1744307553406,
       "link": null,
       "locked": false,
       "points": [
@@ -676,8 +676,8 @@
           0
         ],
         [
-          217.75026347548248,
-          127.83849145172616
+          218.04299001776678,
+          128.01034759084735
         ]
       ],
       "lastCommittedPoint": null,
@@ -698,8 +698,8 @@
     {
       "id": "D8O0X3I7vEcD8cYIQNMl9",
       "type": "text",
-      "x": 876.7415574103995,
-      "y": 457.42447188754727,
+      "x": 575.3476545522478,
+      "y": 579.5562370022843,
       "width": 107.83990478515625,
       "height": 40,
       "angle": 0,
@@ -715,11 +715,11 @@
       "index": "aF",
       "roundness": null,
       "seed": 412154701,
-      "version": 147,
-      "versionNonce": 53651651,
+      "version": 148,
+      "versionNonce": 1260085731,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1744307068013,
+      "updated": 1744307553405,
       "link": null,
       "locked": false,
       "text": "Persist follow\ninformation",
@@ -3610,6 +3610,80 @@
       "verticalAlign": "middle",
       "containerId": "CDlVyQHe2WdRJX0CoRswM",
       "originalText": "processed Media URLs",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "a6hO88tmQagM4_IHAcoqi",
+      "type": "text",
+      "x": 686.8018101734147,
+      "y": 62.57700738490678,
+      "width": 178.86386108398438,
+      "height": 20,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0Z",
+      "roundness": null,
+      "seed": 1681052675,
+      "version": 36,
+      "versionNonce": 106341923,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1744308501871,
+      "link": null,
+      "locked": false,
+      "text": "Simple Feed Generation",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Simple Feed Generation",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "q4nmMDingQ7NNQtBviPpL",
+      "type": "text",
+      "x": 807.7531961917695,
+      "y": 1380.3561638669694,
+      "width": 780.9495720387005,
+      "height": 757.3826645941804,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0x",
+      "roundness": null,
+      "seed": 649244547,
+      "version": 120,
+      "versionNonce": 1628044877,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1744308627864,
+      "link": null,
+      "locked": false,
+      "text": "Redis Storage Assumptions\n\nAssumptions:\n\nDAU: 500 Million (500M)\nCached Feed Depth: 200 postIDs/user\nPost Cache: 10 Million (10M) posts\nPost Metadata Size: 1500 bytes\nID Size: 8 bytes (for both userId and postId)\nCalculations:\n\nuserId:[postIds] Cache Size:\n\nSize per user = userId size + (Avg postIDs/user * postId size)\nSize per user = 8 bytes + (200 * 8 bytes) = 8 + 1600 = 1608 bytes\nTotal Size = Number of users * Size per user\nTotal Size = 500M * 1608 bytes = 804,000 Million bytes = 804 Billion bytes\n~749 GB (converting Billion bytes to GB using 1024^3)\npostId:ActualPostMetadata Cache Size:\n\nSize per post = postId size + Metadata size\nSize per post = 8 bytes + 1500 bytes = 1508 bytes\nTotal Size = Number of posts * Size per post\nTotal Size = 10M * 1508 bytes = 15,080 Million bytes = 15.08 Billion bytes\n~14 GB (converting Billion bytes to GB using 1024^3)\nFinal Estimated Size (Single Copy, Raw Data):\n\nTotal = User Feed Cache + Post Metadata Cache\nTotal = ~749 GB + ~14 GB = ~763 GB",
+      "fontSize": 20.893314885356702,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Redis Storage Assumptions\n\nAssumptions:\n\nDAU: 500 Million (500M)\nCached Feed Depth: 200 postIDs/user\nPost Cache: 10 Million (10M) posts\nPost Metadata Size: 1500 bytes\nID Size: 8 bytes (for both userId and postId)\nCalculations:\n\nuserId:[postIds] Cache Size:\n\nSize per user = userId size + (Avg postIDs/user * postId size)\nSize per user = 8 bytes + (200 * 8 bytes) = 8 + 1600 = 1608 bytes\nTotal Size = Number of users * Size per user\nTotal Size = 500M * 1608 bytes = 804,000 Million bytes = 804 Billion bytes\n~749 GB (converting Billion bytes to GB using 1024^3)\npostId:ActualPostMetadata Cache Size:\n\nSize per post = postId size + Metadata size\nSize per post = 8 bytes + 1500 bytes = 1508 bytes\nTotal Size = Number of posts * Size per post\nTotal Size = 10M * 1508 bytes = 15,080 Million bytes = 15.08 Billion bytes\n~14 GB (converting Billion bytes to GB using 1024^3)\nFinal Estimated Size (Single Copy, Raw Data):\n\nTotal = User Feed Cache + Post Metadata Cache\nTotal = ~749 GB + ~14 GB = ~763 GB",
       "autoResize": true,
       "lineHeight": 1.25
     }
