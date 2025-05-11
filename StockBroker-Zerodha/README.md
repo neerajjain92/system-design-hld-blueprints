@@ -1,1 +1,1 @@
-![StockBroker exaclidraw](https://github.com/user-attachments/assets/d1b04656-37ed-4693-b23e-d615a961edf3)
+![StockBroker](https://github.com/user-attachments/assets/a48b3f6d-a6fd-4b3f-b261-85311684ac82)
